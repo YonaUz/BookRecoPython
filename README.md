@@ -1,6 +1,6 @@
 # BookRecoPython
 
-A smart, data-driven "bundle shopping" pipeline that bridges machine learning recommendation systems with an automated asynchronous Vinted scraper. This project identifies books tailored to your reading profile and automatically locates European Vinted sellers ("Vinties") stocking multiple titles from your wishlist to optimize bundle shipping costs.
+A smart, first trial data-driven "bundle shopping" pipeline that bridges machine learning recommendation systems with an automated asynchronous Vinted scraper. This project identifies books tailored to your reading profile and automatically locates European Vinted sellers ("Vinties") stocking multiple titles from your wishlist to optimize bundle shipping costs. And currently under construction to combine the 2 features together. 
 
 ---
 
