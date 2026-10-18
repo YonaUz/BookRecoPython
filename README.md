@@ -42,9 +42,9 @@ The repository is organized into four core notebooks covering exploratory tests,
 ## How It Works (The End-to-End Workflow)
 
 1. **Recommendation Phase**: Run notebook `3` or `4` to generate a curated list of book recommendations starting from a target title.
-2. **Integration Phase**: Pass the recommended book list into the asynchronous Vinted scraper configuration (`2_VintedScraper_Asynch.ipynb`).
+2. **Integration Phase**: Pass the recommended book list into the asynchronous Vinted scraper configuration (`2_VintedScraper_Asynch.ipynb`). -- To be improved. 
 3. **Scraping Phase**: The scraper queries Vinted across multiple European domains while respecting anti-bot constraints.
-4. **Matching Phase**: The script aggregates listings by seller, identifying "Vinties" who stock **two or more books** from your wishlist, allowing you to buy a cost-effective bundle.
+4. **Matching Phase**: The script aggregates listings by seller, identifying "Vinties" who stock **two or more books** from your wishlist, allowing you to buy a cost-effective bundle. -- To be improved. 
 
 ---
 
